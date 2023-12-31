@@ -11,7 +11,7 @@
 <pre>http://localhost:8080 or http://127.0.0.1:8080</pre>
 <h3>for Pull Docker Image</h3>
 <pre>$ docker pull anilkas/golang-rest-api</pre>
-<pre>$ docker run -d -p 8080:8080 --nane golang-api anilkas/golang-rest-api</pre>
+<pre>$ docker run -d -p 8080:8080 --nane golang-api anillkas/golang-api</pre>
 <pre>http://localhost:8080 or http://127.0.0.1:8080</pre>
 <h3>How to used</h3>
 <pre>http://localhost:8080 or http://host-ip:8080</pre>
